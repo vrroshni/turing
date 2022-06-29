@@ -1,0 +1,67 @@
+ *{
+    margin:0;
+    padding: 0;
+ }
+ body {
+    font-family: Gordita, sans-serif;
+    overflow-x: hidden;
+
+}
+
+nav img {
+    height: 3rem;
+}
+
+.row .col-4 {
+
+    line-height: 1.5em;
+
+    color: #212121;
+}
+
+
+
+.earth {
+
+    background: url(images/earthbl.jpeg);
+
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center center;
+
+}
+
+.card-color {
+    display: flex;
+    
+}
+.explain{
+    display: flex;
+    
+}
+.column{
+    display: flex;
+    
+}
+.red-color {
+    color:red;
+}
+.yellow-color {
+    color:yellow;
+    }
+
+
+
+
+/* @media screen and (max-width:987px) {
+    .imageone {
+        background-image: url(/images/reflected.png);
+        background-repeat: no-repeat;
+        background-size: contain;
+        width: 80%;
+        height: 100vh;
+
+
+    }
+
+} */
